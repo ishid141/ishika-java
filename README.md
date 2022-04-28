@@ -1,0 +1,2 @@
+# ishika-java
+ practice repository
